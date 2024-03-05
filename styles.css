@@ -1,3 +1,10 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    color:#34399f;
+    background-color: #f4d8ebf4;
+}
+
+h1 {
+    font-size: 45px;
+    color: #FF5733;
 }
